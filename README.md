@@ -18,4 +18,4 @@ This project is an Al-powered assistant designed to automate workplace tasks suc
 - OpenAI API
 - Gi tHub
 ## Author
-Afika
+Afika Gawula
